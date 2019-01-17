@@ -1,2 +1,2 @@
-# rand_ipynbs
-Random iPython Notebooks
+# pycodes
+Random Python Codes / iPython Notebooks
